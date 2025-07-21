@@ -2,7 +2,6 @@
 import Image from "next/image";
 import React from 'react'
 import Navbar from "../components/Navbar";
-import '../styles/projects.module.css';
 import Link from 'next/link';
 
 
@@ -66,7 +65,7 @@ const projects = [
 
       <style jsx>{`
         .container {
-          width:95vw;
+          width:98vw;
           background-color: black;
           color: white;
           padding: 60px 20px;

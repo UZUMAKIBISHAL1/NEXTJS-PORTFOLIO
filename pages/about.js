@@ -37,7 +37,7 @@ export default function AboutPage() {
       <style jsx>{`
         .about-container {
           display: flex;
-          height: calc(90vh - 70px); /* adjust based on your navbar height */
+          height: calc(95vh - 70px); /* adjust based on your navbar height */
           background-color: black;
           color: white;
         }

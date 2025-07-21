@@ -33,7 +33,7 @@ export default function Contact() {
         .container {
           background-color: black;
           color: white;
-          height: 70vh;
+          height: 80vh;
           display: flex;
           flex-direction: column;
           align-items: center;
