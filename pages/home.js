@@ -23,7 +23,7 @@ export default function Home() {
 
         {/* Text Content */}
         <div>
-          <h2 className="text-4xl font-bold text-[#00ffcc]">Hello, I'm Bishal!</h2>
+          <h2 className="text-4xl font-bold text-[#00ffcc]">Hello, I am Bishal!</h2>
           <p className="text-lg text-gray-300 mt-4 max-w-md leading-relaxed">
             A passionate software developer who loves building modern web experiences using React, Next.js, and everything JavaScript!
           </p>
@@ -43,7 +43,7 @@ export default function Home() {
           </Link>
           
 
-           <Link href="/letsmeet" className="text-blue-400 hover:underline text-lg">Let's Meet 🚀</Link>
+           <Link href="/letsmeet" className="text-blue-400 hover:underline text-lg">Let us Meet 🚀</Link>
         </div>
       </div>
 
@@ -60,7 +60,7 @@ export default function Home() {
           <FaGithub size={24} />
         </a>
         <a
-          href="https://linkedin.com/in/Vishal K.pachhai"
+          href="https://linkedin.com/in/Vishal-K-pachhai"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-blue-400 text-2xl"
