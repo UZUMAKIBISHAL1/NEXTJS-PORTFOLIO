@@ -55,7 +55,7 @@ export default function LetsMeet() {
             textAlign: 'center',
           }}
         >
-          <h1 style={{ fontSize: '3rem', margin: 0 }}>Let's Meet </h1>
+          <h1 style={{ fontSize: '3rem', margin: 0 }}>Let `s Meet </h1>
           <p style={{ fontSize: '1.25rem', margin: 0 }}>
             Welcome to My Site! Connect, collaborate, and Meet
           </p>

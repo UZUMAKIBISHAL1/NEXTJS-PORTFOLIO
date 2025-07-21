@@ -6,7 +6,7 @@ import Contact from '../pages/contact';
 import Projects from '../pages/projects';
 import About from '../pages/about';
 
-export default function () {
+export default function Page() {
   return (
     <div>
 
@@ -24,6 +24,7 @@ export default function () {
 
   );
 }
+Page.displayName = 'App';
 
 
 

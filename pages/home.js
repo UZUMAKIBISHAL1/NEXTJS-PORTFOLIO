@@ -53,7 +53,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className='h-14'></div>
+      <div className="h-14"></div>
 
       {/* Social Media Icons */}
       <div className="flex gap-17 mb-20 justify-center">

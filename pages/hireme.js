@@ -5,14 +5,14 @@ export default function HireMePage() {
   const router = useRouter();
 
   const handleBack = () => {
-    router.push('/');
+    router.push("/");
   };
 
   return (
     <div className="container">
-      <h1 className="title">Let's build together</h1>
+      <h1 className="title">Lets build together</h1>
       <p className="subtitle">
-        I'm available for full-time work. Let's work together!
+        I am available for full-time work. Let us work together!
       </p>
 
       <form className="form">

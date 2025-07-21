@@ -14,7 +14,7 @@ export default function AboutPage() {
       <div className="text-section">
         <h1 className='text-yellow'>Hi, I am Bishal.</h1>
         <p>
-           I’m a passionate developer who loves crafting clean and modern
+           I am a passionate developer who loves crafting clean and modern
           websites. With strong skills in React, Next.js, and UI/UX, and I also 
           have some good experience in backend environment.I have build few 
           Projects using Python's Django and Rest Framework. I turn
@@ -23,7 +23,7 @@ export default function AboutPage() {
         </p>
         <p>
           Currently looking for exciting opportunities to collaborate, grow,
-          and build cool stuff. Let’s connect and make something awesome!
+          and build cool stuff. Let 's connect and make something awesome!
           Thanks for visiting my page!
         </p>
         <p>
