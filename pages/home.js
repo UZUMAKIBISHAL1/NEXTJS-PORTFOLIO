@@ -1,4 +1,3 @@
-
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -44,12 +43,7 @@ export default function Home() {
           </Link>
           
 
-           <a
-    href="/letsmeet"
-    className="text-blue-400 hover:underline text-lg"
-  >
-    Let's Meet 🚀
-  </a>
+           <Link href="/letsmeet" className="text-blue-400 hover:underline text-lg">Let's Meet 🚀</Link>
         </div>
       </div>
 
@@ -86,10 +80,6 @@ export default function Home() {
     </main>
   );
 }
-
-
-
-
 
      
       

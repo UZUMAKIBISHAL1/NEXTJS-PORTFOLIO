@@ -17,13 +17,13 @@ export default function AboutPage() {
            I am a passionate developer who loves crafting clean and modern
           websites. With strong skills in React, Next.js, and UI/UX, and I also 
           have some good experience in backend environment.I have build few 
-          Projects using Python's Django and Rest Framework. I turn
+          Projects using Python `s Django and Rest Framework. I turn
           ideas into interactive web experiences. I believe in writing
           maintainable code and building user-friendly products.
         </p>
         <p>
           Currently looking for exciting opportunities to collaborate, grow,
-          and build cool stuff. Let 's connect and make something awesome!
+          and build cool stuff. Let `s connect and make something awesome!
           Thanks for visiting my page!
         </p>
         <p>
