@@ -29,6 +29,7 @@
     "@types/react-icons": "^2.2.7",
     "eslint": "^9",
     "eslint-config-next": "15.4.1",
+    "stylelint": "^16.22.0",
     "tailwindcss": "^4.1.11",
     "typescript": "^5"
   }
