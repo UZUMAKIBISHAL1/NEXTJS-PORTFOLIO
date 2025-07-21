@@ -1,0 +1,16 @@
+
+.nav ul li a {
+  transition: border-bottom 0.2s ease-in-out;
+}
+
+.nav ul li a.active {
+  border-bottom: 2px solid #00ffcc; /* same color as your .nav text */
+}
+
+.nav ul li a:hover {
+  border-bottom: 2px solid #00ffcc;
+}
+.active {
+  color: #00ffcc; /* same color as the logo */
+  text-decoration: underline;
+}

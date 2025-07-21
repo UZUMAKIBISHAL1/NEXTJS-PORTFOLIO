@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+  gap: 4rem;
+}
+
+.imageWrapper {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 255, 204, 0.4);
+}
+
+.profileImage {
+  border-radius: 20px;
+}
+
+.textContent h2 {
+  font-size: 2.5rem;
+  color: #00ffcc;
+}
+
+.textContent p {
+  font-size: 1.2rem;
+  color: #ddd;
+  max-width: 500px;
+  line-height: 1.6;
+}
+
